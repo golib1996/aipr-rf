@@ -1,4 +1,8 @@
-.iconlist_content  p {
-    background: rgba(0, 0, 0, 0.5); 
+#advantages-list {
+    margin: 40px 0;
+
+  .iconlist_content p {
+    background: rgba(0, 0, 0, 0.5);
     color: $brand-color;
+  }
 }
