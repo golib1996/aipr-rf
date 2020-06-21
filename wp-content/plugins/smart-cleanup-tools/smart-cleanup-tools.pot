@@ -1,0 +1,1599 @@
+#: remove/attachments/form.php:34
+msgid "attachment"
+msgid_plural "attachments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: forms/panels/statistics.php:68
+#: forms/panels/statistics.php:40
+msgid "time"
+msgid_plural "times"
+msgstr[0] ""
+msgstr[1] ""
+
+#: remove/posts_missing_cpt/form.php:29
+msgid "post"
+msgid_plural "posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: remove/terms_missing_tax/form.php:29
+msgid "term"
+msgid_plural "terms"
+msgstr[0] ""
+msgstr[1] ""
+
+#: forms/panels/about.php:25
+msgid "sale"
+msgid_plural "sales"
+msgstr[0] ""
+msgstr[1] ""
+
+#: clean/netreset.php:19
+#: clean/netreset.php:23
+#: clean/reset.php:139
+#: clean/reset.php:178
+#: clean/reset.php:143
+#: clean/reset.php:182
+msgid "Records Reseted"
+msgstr ""
+
+#: clean/basic.php:25
+#: forms/panels/settings.php:117
+#: forms/panels/settings.php:106
+#: forms/panels/settings.php:186
+#: forms/panels/settings.php:134
+msgid "Active"
+msgstr ""
+
+#: clean/network.php:41
+#: clean/network.php:146
+#: clean/parent.php:44
+#: clean/network.php:201
+#: clean/parent.php:121
+#: clean/parent.php:212
+#: clean/reset.php:41
+#: clean/site.php:103
+#: clean/site.php:277
+#: clean/site.php:230
+#: clean/site.php:325
+#: clean/site.php:373
+#: clean/site.php:530
+#: clean/site.php:469
+#: clean/site.php:589
+#: clean/site.php:182
+#: clean/site.php:684
+#: clean/site.php:636
+#: clean/site.php:421
+msgid "Found"
+msgstr ""
+
+#: clean/netreset.php:6
+msgid "This will reset this plugin and remove all gathered statistics."
+msgstr ""
+
+#: clean/basic.php:38
+#: remove/posts_missing_cpt/form.php:23
+#: remove/posts_missing_cpt/form.php:26
+msgid "Post Types"
+msgstr ""
+
+#: clean/network.php:26
+#: clean/network.php:22
+#: clean/network.php:127
+#: clean/network.php:131
+#: clean/network.php:186
+#: clean/network.php:182
+#: clean/parent.php:29
+#: clean/parent.php:25
+#: clean/parent.php:97
+#: clean/parent.php:93
+#: clean/parent.php:197
+#: clean/parent.php:193
+#: clean/reset.php:26
+#: clean/reset.php:82
+#: clean/reset.php:78
+#: clean/site.php:84
+#: clean/site.php:88
+#: clean/reset.php:22
+#: clean/site.php:167
+#: clean/site.php:163
+#: clean/site.php:211
+#: clean/site.php:215
+#: clean/site.php:259
+#: clean/site.php:263
+#: clean/site.php:306
+#: clean/site.php:310
+#: clean/site.php:354
+#: clean/site.php:358
+#: clean/site.php:402
+#: clean/site.php:454
+#: clean/site.php:450
+#: clean/site.php:406
+#: clean/site.php:504
+#: clean/site.php:570
+#: clean/site.php:508
+#: clean/site.php:617
+#: clean/site.php:669
+#: clean/site.php:574
+#: clean/site.php:665
+#: clean/site.php:621
+msgid "Records Removed"
+msgstr ""
+
+#: clean/netreset.php:34
+#: clean/reset.php:93
+#: clean/reset.php:154
+#: clean/reset.php:193
+msgid "in"
+msgstr ""
+
+#: clean/network.php:81
+#: clean/network.php:77
+#: clean/site.php:720
+#: clean/site.php:724
+msgid "Overhead Removed"
+msgstr ""
+
+#: clean/network.php:42
+#: clean/network.php:147
+#: clean/parent.php:45
+#: clean/parent.php:122
+#: clean/reset.php:42
+#: clean/parent.php:213
+#: clean/site.php:104
+#: clean/site.php:183
+#: clean/site.php:326
+#: clean/site.php:278
+#: clean/site.php:531
+#: clean/site.php:374
+#: clean/site.php:231
+#: clean/site.php:470
+#: clean/site.php:685
+#: clean/site.php:637
+#: clean/site.php:422
+msgid "Estimated size"
+msgstr ""
+
+#: clean/site.php:17
+msgid "Auto drafts are made when creating new posts, before it is saved for the first time."
+msgstr ""
+
+#: clean/network.php:54
+#: clean/site.php:697
+msgid "Over time, data in the database due to constant update and deletion of records gets fragmented, creating overhead. Overhead can be removed and it can speed up database queries."
+msgstr ""
+
+#: clean/network.php:111
+#: clean/site.php:386
+msgid "This will remove all records from usermeta table that are empty."
+msgstr ""
+
+#: clean/network.php:99
+#: clean/site.php:742
+#: core/worker.php:287
+msgid "Overhead"
+msgstr ""
+
+#: clean/network.php:159
+#: clean/network.php:6
+#: clean/site.php:434
+#: clean/site.php:543
+msgid "Transient records are temporary data stored by WordPress and plugins. They have expiration data, and if they are missing, they will be regenerated on first use."
+msgstr ""
+
+#: clean/parent.php:8
+msgid "This will remove all GravityForms submissions (leads) with status set to"
+msgstr ""
+
+#: clean/parent.php:153
+#: clean/site.php:126
+#: remove/posts/form.php:16
+#: remove/posts/form.php:13
+#: remove/posts_missing_cpt/load.php:20
+msgid "Post Type"
+msgstr ""
+
+#: clean/parent.php:65
+msgid "This will remove all posts and postmetas with post status set to"
+msgstr ""
+
+#: clean/parent.php:153
+#: clean/site.php:126
+#: forms/panels/front.php:40
+msgid "Size"
+msgstr ""
+
+#: clean/parent.php:153
+#: clean/site.php:126
+#: core/worker.php:286
+#: forms/panels/front.php:38
+msgid "Records"
+msgstr ""
+
+#: clean/parent.php:174
+msgid "This will remove all comments and commentmeta records with comment status set to"
+msgstr ""
+
+#: clean/reset.php:6
+msgid "To control who edits which post, WordPress uses lock and last user editor meta fields. This tool allows you to remove all lock values from all posts."
+msgstr ""
+
+#: clean/reset.php:104
+msgid "In some cases, rules can get broken because of the bugs in plugins that modify rewrite rules."
+msgstr ""
+
+#: clean/reset.php:53
+msgid "This tool is useful for websites that have many different authors and editors that make frequent changes to posts."
+msgstr ""
+
+#: core/worker.php:240
+#: core/worker.php:79
+msgid "cleanup tool is missing"
+msgstr ""
+
+#: clean/reset.php:62
+msgid "In some cases it can happen that permalinks rewrite rules are not updated properly. Using this, rewrite rules definitions will be removed, forcing WordPress to regenerate them."
+msgstr ""
+
+#: clean/reset.php:103
+msgid "Removing this will force WordPress to regenerate all rewrite rules on page load."
+msgstr ""
+
+#: clean/reset.php:113
+msgid "When switching themes with different sidebars configuration, you might need to empty all sidebars. All widgets will be moved from sidebars into Inactive widgets area."
+msgstr ""
+
+#: clean/reset.php:165
+msgid "This will reset Smart Cleanup Tools settings and remove all gathered statistics."
+msgstr ""
+
+#: clean/site.php:57
+msgid "This will remove revisions (and postmeta for them) for all published posts."
+msgstr ""
+
+#: clean/site.php:44
+msgid "This will remove all comments and commentmeta records that are not yet approved."
+msgstr ""
+
+#: clean/site.php:146
+msgid "This will remove all revisions (and postmeta for them) that are not connected to any current posts. Orphaned revisions are common issue caused by deletion problems, or auto drafts saving."
+msgstr ""
+
+#: clean/site.php:338
+msgid "This will remove all records from comments table not associated with existing posts. Removes commentmeta records also."
+msgstr ""
+
+#: clean/site.php:195
+msgid "This will remove all records from postmeta table not associated with existing posts."
+msgstr ""
+
+#: core/admin.php:234
+#: core/admin.php:231
+#: core/admin.php:232
+#: core/admin.php:233
+#: core/admin.php:235
+#: core/admin.php:238
+#: core/admin.php:236
+#: core/admin.php:237
+#: core/admin.php:239
+#: core/admin.php:240
+#: core/admin.php:241
+#: core/network.php:16
+#: core/network.php:17
+#: core/network.php:18
+#: core/network.php:19
+#: core/network.php:20
+#: core/network.php:21
+#: core/network.php:22
+#: core/network.php:23
+#: core/network.php:24
+#: core/network.php:25
+#: core/network.php:26
+#: forms/shared/header.php:8
+msgid "Smart Cleanup Tools"
+msgstr ""
+
+#: core/admin.php:234
+#: core/admin.php:234
+#: core/network.php:19
+#: core/network.php:19
+#: core/toolbar.php:131
+#: forms/panels/statistics.php:24
+msgid "Cleanup Tools"
+msgstr ""
+
+#: clean/site.php:290
+msgid "This will remove all records from commentmeta table not associated with existing comments."
+msgstr ""
+
+#: clean/site.php:482
+msgid "Various RSS feeds added to WordPress (dashboard, or from plugins) can take up a lot of space in the database, and if you don't use them, it is recommended to remove them."
+msgstr ""
+
+#: clean/site.php:243
+msgid "This will remove all oembed records from postmeta table. In some cases WordPress can save multiple copies of same oembed records."
+msgstr ""
+
+#: clean/site.php:601
+msgid "Relationships table connecting posts and terms can have relationships between non existing posts and terms. This tool can find and remove all such orphaned relationship records."
+msgstr ""
+
+#: clean/site.php:649
+msgid "Terms table can contain terms that are not connected to any taxonomy."
+msgstr ""
+
+#: clean/parent.php:10
+msgid "This will affect data in 5 GravityForms tables."
+msgstr ""
+
+#: core/admin.php:231
+#: core/network.php:16
+msgid "Smart Cleanup"
+msgstr ""
+
+#: core/admin.php:233
+#: core/admin.php:233
+#: core/admin.php:337
+#: core/network.php:18
+#: core/network.php:18
+#: core/toolbar.php:123
+#: forms/panels/front.php:23
+#: forms/shared/header.php:26
+msgid "About"
+msgstr ""
+
+#: core/admin.php:237
+#: core/admin.php:237
+#: core/admin.php:396
+#: core/network.php:22
+#: core/network.php:22
+#: core/toolbar.php:159
+#: forms/panels/front.php:18
+#: forms/shared/header.php:21
+msgid "Scheduler"
+msgstr ""
+
+#: core/admin.php:235
+#: core/admin.php:235
+#: core/network.php:20
+#: core/network.php:20
+#: core/toolbar.php:139
+#: forms/panels/statistics.php:52
+msgid "Reset Tools"
+msgstr ""
+
+#: core/admin.php:232
+#: core/admin.php:232
+#: core/network.php:17
+#: core/network.php:17
+#: core/toolbar.php:115
+#: forms/shared/header.php:15
+msgid "Intro"
+msgstr ""
+
+#: core/admin.php:236
+#: core/admin.php:236
+#: core/network.php:21
+#: core/network.php:21
+#: core/toolbar.php:149
+msgid "Removal Tools"
+msgstr ""
+
+#: core/admin.php:238
+#: core/admin.php:238
+#: core/admin.php:419
+#: core/network.php:23
+#: core/network.php:23
+#: core/toolbar.php:168
+#: forms/panels/front.php:19
+#: forms/shared/header.php:22
+msgid "Statistics"
+msgstr ""
+
+#: core/admin.php:239
+#: core/admin.php:239
+#: core/admin.php:457
+#: core/network.php:24
+#: core/network.php:24
+#: core/toolbar.php:176
+#: forms/panels/front.php:20
+#: forms/shared/header.php:23
+msgid "View Logs"
+msgstr ""
+
+#: core/admin.php:240
+#: core/admin.php:240
+#: core/admin.php:444
+#: core/network.php:25
+#: core/network.php:25
+#: core/toolbar.php:184
+#: forms/panels/front.php:21
+#: forms/shared/header.php:25
+msgid "Settings"
+msgstr ""
+
+#: core/admin.php:241
+#: core/admin.php:241
+#: core/network.php:26
+#: core/network.php:26
+#: core/toolbar.php:192
+#: forms/panels/front.php:22
+#: forms/shared/header.php:24
+msgid "Export / Import"
+msgstr ""
+
+#: core/admin.php:253
+msgid "Website"
+msgstr ""
+
+#: core/admin.php:254
+msgid "On CodeCanyon"
+msgstr ""
+
+#: core/admin.php:255
+msgid "On Twitter"
+msgstr ""
+
+#: core/admin.php:256
+msgid "On Facebook"
+msgstr ""
+
+#: core/admin.php:260
+#: core/toolbar.php:206
+msgid "Information"
+msgstr ""
+
+#: core/admin.php:261
+msgid "Add contact form to any and all pages on your website, descretly hidden on the left side of the screen behind the tab, sliding open when needed."
+msgstr ""
+
+#: core/admin.php:262
+msgid "Useful Links"
+msgstr ""
+
+#: core/admin.php:263
+msgid "Plugin Homepage"
+msgstr ""
+
+#: core/admin.php:264
+msgid "Plugin On CodeCanyon"
+msgstr ""
+
+#: core/admin.php:269
+msgid "Support"
+msgstr ""
+
+#: core/admin.php:270
+msgid "Support Reources"
+msgstr ""
+
+#: core/admin.php:271
+msgid "Official Support Forum"
+msgstr ""
+
+#: core/admin.php:285
+#: core/admin.php:351
+#: core/toolbar.php:48
+#: core/worker.php:283
+#: forms/panels/front.php:13
+#: forms/panels/settings.php:36
+#: forms/panels/settings.php:33
+#: forms/shared/header.php:16
+msgid "Cleanup"
+msgstr ""
+
+#: core/admin.php:304
+msgid "Are you sure that you want to do this? Operation is not reversable."
+msgstr ""
+
+#: core/admin.php:305
+msgid "Select tools to disable"
+msgstr ""
+
+#: core/admin.php:306
+msgid "# of # tools disabled"
+msgstr ""
+
+#: core/admin.php:307
+msgid "All Post Types"
+msgstr ""
+
+#: core/admin.php:308
+msgid "# of # post types"
+msgstr ""
+
+#: core/admin.php:320
+#: core/toolbar.php:69
+#: forms/panels/front.php:33
+msgid "Quick Cleanup"
+msgstr ""
+
+#: core/admin.php:365
+#: forms/panels/front.php:14
+#: forms/panels/settings.php:52
+#: forms/panels/settings.php:55
+#: forms/shared/header.php:17
+msgid "Reset"
+msgstr ""
+
+#: core/admin.php:379
+#: forms/panels/front.php:16
+#: forms/shared/header.php:19
+msgid "Removal"
+msgstr ""
+
+#: core/admin.php:404
+msgid "Scheduler Job"
+msgstr ""
+
+#: core/admin.php:470
+msgid "Import / Export"
+msgstr ""
+
+#: core/export.php:102
+msgid "Only administrators can use export features."
+msgstr ""
+
+#: core/export.php:118
+msgid "Nothing is selected for export."
+msgstr ""
+
+#: core/toolbar.php:79
+msgid "Full Quick Cleanup"
+msgstr ""
+
+#: core/toolbar.php:97
+msgid "Reset Rewrite Rules"
+msgstr ""
+
+#: core/toolbar.php:105
+msgid "Plugin Panels"
+msgstr ""
+
+#: core/toolbar.php:242
+msgid "Support Forum"
+msgstr ""
+
+#: core/toolbar.php:211
+msgid "More Plugins"
+msgstr ""
+
+#: core/toolbar.php:235
+msgid "on SMARTPlugins"
+msgstr ""
+
+#: core/toolbar.php:228
+msgid "on CodeCanyon"
+msgstr ""
+
+#: core/worker.php:75
+#: core/worker.php:236
+#: core/worker.php:224
+#: forms/panels/statistics.php:37
+#: forms/panels/statistics.php:65
+#: forms/panels/statistics.php:42
+#: forms/panels/toolbar.php:38
+#: forms/panels/statistics.php:70
+msgid "seconds"
+msgstr ""
+
+#: core/worker.php:224
+#: forms/panels/statistics.php:37
+#: forms/panels/statistics.php:65
+msgid "Execution time"
+msgstr ""
+
+#: core/worker.php:161
+msgid "Cleanup request was invalid"
+msgstr ""
+
+#: core/worker.php:283
+msgid "Results"
+msgstr ""
+
+#: core/worker.php:176
+msgid "No cleanup tools selected."
+msgstr ""
+
+#: core/worker.php:163
+msgid "These are the results of the cleanup process for all selected cleanup tools."
+msgstr ""
+
+#: core/worker.php:283
+msgid "Quick"
+msgstr ""
+
+#: core/worker.php:303
+#: forms/panels/statistics.php:9
+#: forms/panels/statistics.php:18
+msgid "Overhead removed"
+msgstr ""
+
+#: core/worker.php:297
+msgid "Reset Totals"
+msgstr ""
+
+#: core/worker.php:288
+msgid "Saved"
+msgstr ""
+
+#: core/worker.php:308
+msgid "Summary results presented here are just an estimation. Database could be modified by some other process in the same time, and that can affect calculation of exact values"
+msgstr ""
+
+#: core/worker.php:302
+#: forms/panels/statistics.php:8
+#: forms/panels/statistics.php:17
+msgid "Records removed"
+msgstr ""
+
+#: core/worker.php:299
+#: forms/panels/statistics.php:5
+msgid "Cleanup Totals"
+msgstr ""
+
+#: core/worker.php:304
+#: forms/panels/statistics.php:19
+#: forms/panels/statistics.php:10
+msgid "Space recovered"
+msgstr ""
+
+#: forms/panels/about.php:30
+msgid "uploaded on"
+msgstr ""
+
+#: forms/panels/about.php:41
+msgid "Smart Cleanup Tools is powerful and simple to use plugin for cleaning the database from old and unused records, transient cache and overhead. Supports multisite mode."
+msgstr ""
+
+#: forms/panels/cleanup.php:15
+#: forms/panels/reset.php:84
+msgid "Active Tools"
+msgstr ""
+
+#: forms/panels/about.php:53
+msgid "Plugin on the Web"
+msgstr ""
+
+#: forms/panels/about.php:44
+msgid "About Plugin"
+msgstr ""
+
+#: forms/panels/cleanup.php:9
+msgid "Activate all the cleanup tools you want to use. If you need to, set up additional options some tools have."
+msgstr ""
+
+#: forms/panels/about.php:46
+#: forms/panels/front.php:10
+msgid "Version"
+msgstr ""
+
+#: forms/panels/about.php:31
+msgid "last update"
+msgstr ""
+
+#: forms/panels/about.php:48
+msgid "Build"
+msgstr ""
+
+#: forms/panels/cleanup.php:34
+msgid "Run Cleanup"
+msgstr ""
+
+#: forms/panels/cleanup.php:25
+#: forms/panels/reset.php:90
+msgid "Disabled Tools"
+msgstr ""
+
+#: forms/panels/cleanup.php:17
+msgid "Records Found"
+msgstr ""
+
+#: core/toolbar.php:87
+msgid "Delete all Transients"
+msgstr ""
+
+#: forms/panels/cleanup.php:23
+#: forms/panels/reset.php:88
+msgid "Inactive Tools"
+msgstr ""
+
+#: forms/panels/cleanup.php:19
+msgid "Estimated Size"
+msgstr ""
+
+#: forms/panels/cleanup.php:39
+msgid "Time needed to complete cleanup process depends on the database size, number of cleanup operations and amount of data that will get removed during this process."
+msgstr ""
+
+#: forms/panels/cleanup.php:32
+msgid "disable all"
+msgstr ""
+
+#: forms/panels/cleanup.php:32
+msgid "enable all"
+msgstr ""
+
+#: forms/panels/cleanup.php:36
+msgid "These tools are considered safe to use, but to be extra safe you should backup your database first."
+msgstr ""
+
+#: forms/panels/cleanup.php:53
+msgid "All available cleanup tools are disabled."
+msgstr ""
+
+#: forms/panels/about.php:47
+msgid "Date"
+msgstr ""
+
+#: forms/panels/front.php:7
+#: forms/shared/header.php:9
+msgid "Network Mode"
+msgstr ""
+
+#: forms/panels/front.php:45
+msgid "Run Quick Cleanup"
+msgstr ""
+
+#: forms/panels/impexp.php:3
+msgid "Plugin settings (one or more records stored in the WordPress options table) and scheduled jobs will be exported as serialized string and saved into text file that can be imported on this or any other WordPress installation. Do not make any modifications to this file, or later import will fail!"
+msgstr ""
+
+#: forms/panels/front.php:36
+msgid "Tools"
+msgstr ""
+
+#: forms/panels/impexp.php:1
+#: forms/panels/impexp.php:7
+msgid "Export Plugin Settings"
+msgstr ""
+
+#: forms/panels/log.php:10
+msgid "Available Log Files"
+msgstr ""
+
+#: forms/panels/impexp.php:15
+#: forms/panels/impexp.php:24
+msgid "Import Plugin Settings"
+msgstr ""
+
+#: forms/panels/log.php:48
+msgid "Path"
+msgstr ""
+
+#: forms/panels/log.php:63
+msgid "Log Content"
+msgstr ""
+
+#: forms/panels/impexp.php:17
+msgid "You need valid, unmodified export file (with .sct extension), generated by the export tool on this page."
+msgstr ""
+
+#: forms/panels/impexp.php:18
+msgid "Importing scheduled jobs will only add jobs, all previous jobs will be unaffected."
+msgstr ""
+
+#: forms/panels/impexp.php:26
+msgid "Import"
+msgstr ""
+
+#: forms/panels/impexp.php:9
+msgid "Export"
+msgstr ""
+
+#: forms/panels/removal.php:23
+msgid "Select what type of data you want to remove. Based on that, you will see available options on the right side."
+msgstr ""
+
+#: forms/panels/log.php:30
+msgid "Delete Logs"
+msgstr ""
+
+#: forms/panels/settings.php:71
+#: forms/panels/settings.php:74
+#: remove/posts/form.php:26
+#: remove/posts/form.php:29
+msgid "Remove"
+msgstr ""
+
+#: forms/panels/log.php:34
+msgid "Log Status"
+msgstr ""
+
+#: forms/panels/log.php:38
+msgid "Location"
+msgstr ""
+
+#: forms/panels/log.php:53
+msgid "Log location or file not writable. Unable to create log file."
+msgstr ""
+
+#: forms/panels/log.php:22
+msgid "Delete Log Files"
+msgstr ""
+
+#: forms/panels/log.php:27
+msgid "Use this to delete contents from all 4 plugins log files."
+msgstr ""
+
+#: forms/panels/removal.php:35
+msgid "These tools will delete usable data from the database and files for attachments. Make sure you have database and files backup before proceeding. The responsibility of creating backup is up to you!"
+msgstr ""
+
+#: forms/panels/reset.php:41
+#: forms/panels/scheduler.new.php:59
+#: forms/shared/status.php:60
+msgid "More information available for this tweak."
+msgstr ""
+
+#: forms/panels/reset.php:47
+#: forms/panels/scheduler.new.php:64
+msgid "Help"
+msgstr ""
+
+#: forms/panels/removal.php:48
+msgid "Nothing Selected"
+msgstr ""
+
+#: forms/panels/removal.php:49
+msgid "Load removal tool from the left to proceed"
+msgstr ""
+
+#: forms/panels/reset.php:78
+msgid "Select reset tools you want to use, and set up options if needed."
+msgstr ""
+
+#: forms/panels/removal.php:27
+msgid "Removal Tool"
+msgstr ""
+
+#: forms/panels/removal.php:33
+msgid "Load"
+msgstr ""
+
+#: forms/panels/scheduler.new.php:8
+msgid "Set up the job schedule parameters and tools to use."
+msgstr ""
+
+#: forms/panels/reset.php:97
+msgid "These tools will reset some of data, and it is good idea to create backup if you decide to revert it back later."
+msgstr ""
+
+#: forms/panels/log.php:8
+msgid "From here you can view various log files created by this plugin."
+msgstr ""
+
+#: forms/panels/impexp.php:22
+msgid "Import Scheduled Jobs"
+msgstr ""
+
+#: forms/panels/reset.php:101
+msgid "Time needed to complete cleanup process depends on the size of your database, number of cleanup operations selected and amount of data that will get removed during this process."
+msgstr ""
+
+#: forms/panels/reset.php:36
+msgid "No action required"
+msgstr ""
+
+#: forms/panels/reset.php:111
+msgid "All available reset tools are disabled."
+msgstr ""
+
+#: forms/panels/reset.php:95
+msgid "Run Reset"
+msgstr ""
+
+#: forms/panels/scheduler.php:40
+msgid "You can schedule cleanup jobs to run automatically. On the right you have a list of all scheduled jobs."
+msgstr ""
+
+#: forms/panels/scheduler.new.php:31
+msgid "First Run"
+msgstr ""
+
+#: forms/panels/scheduler.php:65
+msgid "edit"
+msgstr ""
+
+#: forms/panels/scheduler.php:66
+msgid "delete"
+msgstr ""
+
+#: forms/panels/scheduler.new.php:34
+msgid "Save Job"
+msgstr ""
+
+#: forms/panels/scheduler.new.php:18
+msgid "Run Once"
+msgstr ""
+
+#: forms/panels/scheduler.new.php:11
+msgid "Job Title"
+msgstr ""
+
+#: forms/panels/scheduler.new.php:13
+msgid "Schedule"
+msgstr ""
+
+#: forms/panels/scheduler.php:71
+#: forms/panels/scheduler.new.php:21
+msgid "Run"
+msgstr ""
+
+#: remove/terms_missing_tax/load.php:12
+#: remove/terms/load.php:12
+msgid "Data will be removed only from %s and %s tables."
+msgstr ""
+
+#: forms/panels/scheduler.php:51
+msgid "Job Details"
+msgstr ""
+
+#: remove/terms_missing_tax/load.php:14
+#: remove/terms/load.php:14
+msgid "You can use cleanup tool to remove orphaned terms in %s table after this process ends."
+msgstr ""
+
+#: remove/terms_missing_tax/form.php:26
+#: remove/terms_missing_tax/form.php:23
+msgid "Taxonomies"
+msgstr ""
+
+#: forms/panels/scheduler.php:52
+msgid "Next Run"
+msgstr ""
+
+#: forms/panels/scheduler.php:53
+msgid "Tools Included"
+msgstr ""
+
+#: forms/panels/scheduler.php:69
+msgid "To run only once."
+msgstr ""
+
+#: forms/panels/scheduler.php:42
+msgid "Create New Job"
+msgstr ""
+
+#: forms/panels/scheduler.php:46
+msgid "There are no cleanup jobs scheduduled yet."
+msgstr ""
+
+#: forms/panels/settings.php:25
+msgid "Save Settings"
+msgstr ""
+
+#: forms/panels/settings.php:114
+#: forms/panels/settings.php:111
+msgid "Show Inactive Tools"
+msgstr ""
+
+#: forms/panels/settings.php:29
+msgid "Disable Tools"
+msgstr ""
+
+#: forms/panels/scheduler.php:76
+msgid "at"
+msgstr ""
+
+#: forms/panels/settings.php:23
+msgid "Settings here can control tools allowed for use, cleanup logs and other things."
+msgstr ""
+
+#: forms/panels/settings.php:128
+#: forms/panels/settings.php:131
+msgid "Enable Log"
+msgstr ""
+
+#: forms/panels/scheduler.new.php:56
+msgid "Include this cleanup tool"
+msgstr ""
+
+#: forms/panels/settings.php:103
+#: forms/panels/settings.php:100
+msgid "Show Summary"
+msgstr ""
+
+#: forms/panels/settings.php:124
+msgid "Cleanup Logs"
+msgstr ""
+
+#: forms/panels/settings.php:96
+msgid "Cleanup Summary"
+msgstr ""
+
+#: forms/panels/settings.php:162
+#: forms/panels/settings.php:169
+msgid "Do not use this option all the time, it can grow the log file really fast. Use for debugging purposes only."
+msgstr ""
+
+#: forms/panels/settings.php:139
+#: forms/panels/settings.php:142
+msgid "What to Log"
+msgstr ""
+
+#: forms/panels/statistics.php:2
+msgid "Here you can see all the statistics for all cleanup tools saved in the database."
+msgstr ""
+
+#: forms/panels/settings.php:145
+msgid "Reports for normal Cleanup Run"
+msgstr ""
+
+#: forms/panels/settings.php:155
+#: forms/panels/settings.php:148
+msgid "After each run, report will contain all the information about tools used and the cleanup results."
+msgstr ""
+
+#: forms/shared/header.php:37
+msgid "Job must have at least on tool selected."
+msgstr ""
+
+#: forms/panels/statistics.php:14
+msgid "Cron Cleanup Totals"
+msgstr ""
+
+#: forms/panels/statistics.php:42
+#: forms/panels/statistics.php:70
+msgid "Total Execution time"
+msgstr ""
+
+#: forms/panels/settings.php:176
+msgid "WordPress Integration"
+msgstr ""
+
+#: forms/panels/settings.php:180
+#: forms/panels/settings.php:183
+msgid "Toolbar Menu"
+msgstr ""
+
+#: forms/panels/settings.php:166
+msgid "SQL Queries for Cleanup Check"
+msgstr ""
+
+#: forms/panels/statistics.php:41
+#: forms/panels/statistics.php:69
+msgid "Total"
+msgstr ""
+
+#: forms/panels/statistics.php:7
+#: forms/panels/statistics.php:16
+msgid "Number of cleanups"
+msgstr ""
+
+#: forms/panels/statistics.php:35
+#: forms/panels/statistics.php:63
+msgid "Last run"
+msgstr ""
+
+#: forms/panels/settings.php:152
+msgid "Reports for scheduled Cleanup Jobs"
+msgstr ""
+
+#: forms/panels/settings.php:159
+msgid "SQL Queries for Cleanup Run"
+msgstr ""
+
+#: forms/panels/statistics.php:29
+#: forms/panels/statistics.php:57
+msgid "No data yet."
+msgstr ""
+
+#: forms/panels/statistics.php:40
+#: forms/panels/statistics.php:68
+msgid "Executed"
+msgstr ""
+
+#: forms/shared/dimer.php:6
+msgid "In some cases, process can take up to 15 minutes to complete."
+msgstr ""
+
+#: forms/shared/dimer.php:11
+msgid "Please wait for the removal to complete."
+msgstr ""
+
+#: forms/shared/dimer.php:5
+msgid "Please wait for the cleanup to complete."
+msgstr ""
+
+#: forms/shared/dimer.php:8
+msgid "If it takes longer than that, refresh the page."
+msgstr ""
+
+#: forms/panels/removal.php:41
+msgid "All available removal tools are disabled."
+msgstr ""
+
+#: forms/panels/removal.php:58
+msgid "Prepare Data For Removal"
+msgstr ""
+
+#: forms/panels/toolbar.php:42
+#: forms/panels/toolbar.php:33
+msgid "This request is invalid."
+msgstr ""
+
+#: forms/panels/toolbar.php:38
+msgid "Processing Time"
+msgstr ""
+
+#: forms/panels/toolbar.php:2
+msgid "Results for quick cleanup."
+msgstr ""
+
+#: forms/shared/dimer.php:17
+msgid "Please wait to generate removal preview."
+msgstr ""
+
+#: forms/shared/header.php:29
+msgid "Settings saved."
+msgstr ""
+
+#: forms/shared/header.php:31
+msgid "File import failed."
+msgstr ""
+
+#: forms/shared/dimer.php:12
+msgid "This process can take a long time to complete, depending on the amount od data that needs to be removed."
+msgstr ""
+
+#: forms/shared/dimer.php:14
+msgid "If it takes longer than 30 minutes, refresh the page, and start process again."
+msgstr ""
+
+#: forms/shared/header.php:35
+msgid "Job saved successfully."
+msgstr ""
+
+#: forms/shared/header.php:33
+msgid "Nothing imported."
+msgstr ""
+
+#: remove/attachments/form.php:19
+#: remove/attachments/load.php:25
+msgid "Missing parent posts"
+msgstr ""
+
+#: forms/shared/status.php:43
+msgid "See detailed report for this tool."
+msgstr ""
+
+#: remove/attachments/load.php:12
+msgid "Tool will remove attachments, their meta records and the terms relationships they might have."
+msgstr ""
+
+#: remove/attachments/load.php:13
+msgid "Also, files for these attachments will be removed from disc."
+msgstr ""
+
+#: forms/shared/status.php:51
+msgid "No cleanup required"
+msgstr ""
+
+#: remove/attachments/form.php:14
+#: remove/comments/form.php:11
+#: remove/attachments/form.php:17
+msgid "Remove Attachments"
+msgstr ""
+
+#: forms/shared/header.php:39
+msgid "All logs are cleared."
+msgstr ""
+
+#: remove/posts/load.php:12
+#: remove/posts_missing_cpt/load.php:12
+msgid "Tool will remove posts, their meta records and the terms relationships they might have."
+msgstr ""
+
+#: remove/attachments/form.php:27
+#: remove/attachments/form.php:30
+msgid "MIME Types"
+msgstr ""
+
+#: remove/posts/load.php:26
+msgid "remove drafts"
+msgstr ""
+
+#: remove/posts/form.php:31
+msgid "Drafts"
+msgstr ""
+
+#: remove/attachments/form.php:32
+msgid "All"
+msgstr ""
+
+#: remove/attachments/load.php:14
+#: remove/posts/load.php:13
+#: remove/posts_missing_cpt/load.php:13
+msgid "Data will be removed from %s, %s and %s tables."
+msgstr ""
+
+#: remove/attachments/form.php:20
+#: remove/attachments/load.php:28
+msgid "Missing file from disk"
+msgstr ""
+
+#: remove/attachments/form.php:21
+#: remove/attachments/load.php:31
+msgid "Unattached"
+msgstr ""
+
+#: remove/comments/form.php:14
+#: remove/comments/load.php:42
+msgid "Remove user agent data"
+msgstr ""
+
+#: remove/attachments/load.php:81
+msgid "Total attachments found"
+msgstr ""
+
+#: remove/comments/load.php:24
+msgid "Tool will remove all commentmeta records with no value."
+msgstr ""
+
+#: remove/comments/load.php:25
+msgid "Some plugins are known to use commentmeta records that only have name and no value, so using this tool can cause problems with some plugins."
+msgstr ""
+
+#: remove/attachments/load.php:146
+msgid "Total attachments removed"
+msgstr ""
+
+#: remove/comments/form.php:1
+#: load.php:138
+msgid "Comments"
+msgstr ""
+
+#: remove/comments/load.php:39
+#: remove/comments/form.php:13
+msgid "Remove pingbacks"
+msgstr ""
+
+#: remove/attachments/form.php:9
+msgid "With this tool you can remove attachments based on different criteria."
+msgstr ""
+
+#: remove/comments/load.php:15
+msgid "Tool will remove all comments marked as pinbacks."
+msgstr ""
+
+#: remove/attachments/form.php:7
+#: load.php:139
+msgid "Attachments"
+msgstr ""
+
+#: remove/comments/load.php:18
+msgid "Tool will remove user agent data stored for each comment in the comments table."
+msgstr ""
+
+#: remove/comments/load.php:21
+msgid "Tool will remove records from Akismet plugin, stored in the comments meta table."
+msgstr ""
+
+#: remove/comments/load.php:29
+msgid "Data will be removed from %s and %s tables."
+msgstr ""
+
+#: remove/comments/form.php:15
+#: remove/comments/load.php:45
+msgid "Remove Akismet data"
+msgstr ""
+
+#: remove/comments/form.php:16
+msgid "Remove meta records with no value set"
+msgstr ""
+
+#: remove/postmeta/form.php:11
+#: remove/postmeta/form.php:8
+msgid "Remove Postmeta Data"
+msgstr ""
+
+#: remove/comments/load.php:48
+msgid "Remove commentmeta records with no value"
+msgstr ""
+
+#: remove/postmeta/load.php:52
+#: remove/comments/load.php:79
+msgid "Total records found"
+msgstr ""
+
+#: remove/postmeta/load.php:53
+#: remove/comments/load.php:80
+msgid "Estimated data size"
+msgstr ""
+
+#: remove/postmeta/form.php:3
+msgid "This tool removes postmeta records based on selected criteria."
+msgstr ""
+
+#: remove/posts/form.php:5
+#: load.php:141
+msgid "Posts"
+msgstr ""
+
+#: forms/panels/impexp.php:5
+msgid "Export Scheduled Jobs"
+msgstr ""
+
+#: remove/postmeta/load.php:16
+msgid "Some plugins are known to use postmeta records that only have name and no value, so using this tool can cause problems with some plugins."
+msgstr ""
+
+#: remove/postmeta/load.php:20
+msgid "Data will be removed from %stable."
+msgstr ""
+
+#: remove/postmeta/load.php:30
+msgid "Remove postmeta records with no value"
+msgstr ""
+
+#: remove/postmeta/load.php:73
+#: remove/comments/load.php:109
+#: remove/posts/load.php:74
+#: remove/posts_missing_cpt/load.php:50
+#: remove/terms/load.php:97
+#: remove/terms_missing_tax/load.php:52
+msgid "Total records removed"
+msgstr ""
+
+#: remove/postmeta/form.php:13
+msgid "Remove records with no value set"
+msgstr ""
+
+#: remove/postmeta/load.php:15
+msgid "This tool will remove all postmeta records with no value."
+msgstr ""
+
+#: remove/posts/load.php:48
+msgid "Total drafts found"
+msgstr ""
+
+#: remove/posts/form.php:7
+msgid "With this tool you can remove posts based on different criteria."
+msgstr ""
+
+#: remove/postmeta/form.php:1
+msgid "Empty Postmeta records"
+msgstr ""
+
+#: remove/posts_missing_cpt/form.php:6
+msgid "Missing Post Types: Posts"
+msgstr ""
+
+#: remove/posts_missing_cpt/form.php:8
+msgid "With this tool you can remove posts belonging to post types that are no longer registered."
+msgstr ""
+
+#: remove/posts_missing_cpt/form.php:14
+msgid "There are no posts found belonging to post types that are no longer registered."
+msgstr ""
+
+#: remove/posts/load.php:49
+#: remove/posts_missing_cpt/load.php:34
+#: remove/terms_missing_tax/load.php:36
+msgid "Total records for removal"
+msgstr ""
+
+#: remove/terms/form.php:32
+#: remove/terms/load.php:63
+msgid "Unassigned terms"
+msgstr ""
+
+#: remove/terms/load.php:31
+msgid "remove all available terms"
+msgstr ""
+
+#: remove/terms/form.php:7
+msgid "Taxonomy Terms Filter"
+msgstr ""
+
+#: remove/terms/form.php:9
+msgid "With this tool you can remove terms from any taxonomy based on different criteria."
+msgstr ""
+
+#: remove/terms/form.php:27
+#: remove/terms/form.php:30
+msgid "Terms Scope"
+msgstr ""
+
+#: remove/terms/load.php:71
+msgid "Total terms for removal"
+msgstr ""
+
+#: load.php:123
+#: load.php:93
+msgid "Empty Usermeta Records"
+msgstr ""
+
+#: remove/terms/load.php:13
+#: remove/terms_missing_tax/load.php:13
+msgid "Terms in %s table might be used by other taxonomies and they are not removed."
+msgstr ""
+
+#: load.php:132
+#: load.php:113
+msgid "Reset this plugin data"
+msgstr ""
+
+#: load.php:122
+#: load.php:87
+msgid "Expired Transient Records"
+msgstr ""
+
+#: remove/terms/load.php:28
+msgid "remove unassigned terms"
+msgstr ""
+
+#: remove/terms/load.php:65
+msgid "Assigned terms"
+msgstr ""
+
+#: remove/terms/form.php:33
+msgid "All available terms"
+msgstr ""
+
+#: remove/terms_missing_tax/load.php:22
+#: remove/terms/form.php:17
+#: remove/terms/form.php:14
+msgid "Taxonomy"
+msgstr ""
+
+#: remove/terms_missing_tax/form.php:8
+msgid "With this tool you can remove terms belonging to taxonomies that are no longer registered."
+msgstr ""
+
+#: remove/basic.php:42
+msgid "Backup your data before proceeding, this operation is not reversable!"
+msgstr ""
+
+#: load.php:65
+msgid "Cleanup Job Run"
+msgstr ""
+
+#: remove/terms_missing_tax/form.php:14
+msgid "There are no terms found belonging to taxonomies that are no longer registered."
+msgstr ""
+
+#: remove/terms_missing_tax/form.php:6
+msgid "Missing Taxonomies: Terms"
+msgstr ""
+
+#: load.php:74
+msgid "Spammed Posts Records"
+msgstr ""
+
+#: remove/basic.php:11
+msgid "Data Removal Results"
+msgstr ""
+
+#: remove/basic.php:35
+msgid "Remove Data"
+msgstr ""
+
+#: remove/basic.php:38
+msgid "Important"
+msgstr ""
+
+#: load.php:73
+msgid "Trashed Posts Records"
+msgstr ""
+
+#: load.php:84
+msgid "oEmbed Postmeta Records"
+msgstr ""
+
+#: load.php:77
+msgid "Orphaned Posts Revisions Records"
+msgstr ""
+
+#: load.php:97
+msgid "Trashed GravityForms Records"
+msgstr ""
+
+#: load.php:78
+msgid "Orphaned Relationships Records"
+msgstr ""
+
+#: load.php:79
+msgid "Orphaned Terms Records"
+msgstr ""
+
+#: load.php:82
+msgid "Unapproved Comments Records"
+msgstr ""
+
+#: load.php:75
+msgid "Auto Draft Posts Records"
+msgstr ""
+
+#: load.php:76
+msgid "Published Posts Revisions Records"
+msgstr ""
+
+#: load.php:101
+#: load.php:124
+msgid "Database Overhead"
+msgstr ""
+
+#: remove/comments/form.php:8
+msgid "Remove Comments Data"
+msgstr ""
+
+#: remove/comments/form.php:3
+msgid "With this tool you can remove comments and various comments related data."
+msgstr ""
+
+#: load.php:88
+#: load.php:121
+msgid "Transient Records"
+msgstr ""
+
+#: load.php:89
+msgid "RSS Feeds Cache"
+msgstr ""
+
+#: load.php:98
+msgid "Spammed GravityForms Records"
+msgstr ""
+
+#: load.php:85
+msgid "Orphaned Commentmeta Records"
+msgstr ""
+
+#: load.php:86
+msgid "Orphaned Comments Records"
+msgstr ""
+
+#: load.php:112
+msgid "Refresh rewrite rules"
+msgstr ""
+
+#: load.php:144
+msgid "Missing Taxonomies Terms"
+msgstr ""
+
+#: load.php:298
+msgid "New Job"
+msgstr ""
+
+#: load.php:110
+msgid "Reset all sidebars"
+msgstr ""
+
+#: load.php:111
+msgid "Remove post edit locks"
+msgstr ""
+
+#: load.php:336
+msgid "Once Monthly"
+msgstr ""
+
+#: load.php:81
+msgid "Spammed Comments Records"
+msgstr ""
+
+#: load.php:83
+msgid "Orphaned Postmeta Records"
+msgstr ""
+
+#: load.php:80
+msgid "Trashed Comments Records"
+msgstr ""
+
+#: load.php:142
+msgid "Terms"
+msgstr ""
+
+#: load.php:143
+msgid "Missing Post Types Posts"
+msgstr ""
+
+#: load.php:335
+msgid "Once Weekly"
+msgstr ""
+
+#: load.php:140
+msgid "Postmeta"
+msgstr ""
+

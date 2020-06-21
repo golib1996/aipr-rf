@@ -1,0 +1,136 @@
+/* Have fun adding your style here :) - PS: At all times this file should contain a comment or a rule, otherwise opera might act buggy :( */
+
+/* General Custom CSS */
+
+.menu.av-main-nav {
+	 /*display: flex;*/
+}
+
+.top-contacts-block .phone {
+/*     margin-top: 1.35rem;
+    margin-bottom: 5px;
+    margin-left: 35px;
+    padding-left: 0; */
+	
+	left: 50%;
+    transform: translateX(-50%);
+}
+
+.top-address-block {
+	width: auto;
+    top: 50%;
+    right: 0px;
+    color: black;
+	    font-size: 20px;
+    font-weight: bold;
+	text-align: right;
+}
+
+#top #wrap_all #header .av-menu-button:nth-child(5) > a {
+	padding-right: 0;
+}
+
+.top-address-block a {
+	padding: 0;
+	color: black;
+}
+
+.av-main-nav .menu-item:first-child a {
+	padding-left: 0px;
+}
+
+.menu.av-main-nav .menu-item:nth-child(-n+5) {
+	float: left;
+}
+
+.menu.av-main-nav .menu-item:nth-child(n+5) {
+	float: right;
+}
+
+@media screen and (max-width: 1080px) and (min-width: 990px) {
+	#top #header .av-menu-button > a .avia-menu-text {
+		padding: 4px;
+		border-width: 1px;
+	}
+}
+
+.header-scrolled #header_main_alternate {
+	margin-top: 4px;
+}
+
+.header-scrolled .top-contacts-block {
+	top: 35%;
+}
+
+.header-scrolled .top-contacts-block .phone {
+/*     margin-top: 19px; */
+/* 	line-height: 31px; */
+	margin-top: 6px;
+	line-height: 22px;
+}
+
+.header-scrolled .top-address-block {
+    top: 66%;
+	font-size: 16px;
+}
+
+
+
+.header-scrolled .av-logo-container {
+	height: 60px !important;
+	line-height: 60px !important;
+}
+
+.header-scrolled .av-logo-container .logo a {
+	max-height: 60px !important;
+}
+
+.header-scrolled .av-logo-container .logo a img {
+	   position: relative;
+    top: 8px;
+    max-height: 60px !important;
+
+}
+
+
+@media only screen and (max-width: 1450px) {
+.top-contacts-block .phone {
+/*     margin-left: 70px; */
+}
+}
+
+@media only screen and (max-width: 1340px) {
+	#top #header .av-main-nav > li > a 	{
+		font-size: 13px;
+	}
+	.top-contacts-block .phone {
+/*     margin-left: 85px; */
+}
+}
+
+/* disable lightbox hover effect on image*/
+.image-overlay {
+ 	visibility: hidden;
+}
+
+/*
+Desktop Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the desktop view of your site */
+
+@media only screen and (min-width: 768px) {
+  /* Add your Desktop Styles here */
+
+}
+
+
+
+/*
+Mobile Styles
+================================================== */
+/* Note: Add new css to the media query below that you want to only effect the Mobile and Tablet Portrait view */
+
+@media only screen and (max-width: 767px) {
+  /* Add your Mobile Styles here */
+
+}
