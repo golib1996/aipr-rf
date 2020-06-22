@@ -1,12 +1,27 @@
 #advantages-list {
-    margin: 40px 0;
-
+  margin: 40px 0;
+  
   .iconlist_content p {
-    background: rgba(0, 0, 0, 0.5);
-    color: $brand-color;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
   }
-
-  .sss {
-    padding: 10px;
+  
+  header h4.av_iconlist_title,
+  header h4 span {
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff !important;
   }
-}
+  
+  .iconlist_content p,
+  header h4.av_iconlist_title,
+  header h4 span {
+  padding: 10px;
+  }
+  
+  .container {
+  background-repeat: no-repeat;
+  background-image: url(/wp-content/uploads/2019/05/slide5.2-e1558534522575.jpg);
+  background-position: top;
+  background-size: cover;
+  }
+  }
